@@ -2,6 +2,7 @@
 <h3 align="center" style="font-weight:bold">A passionate developer from India!</h3>
 <br>
 <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<br>
 
 -   Currently working on **MERN Stack**
 
@@ -55,10 +56,10 @@
   <h2 align="center">⚡ Current Statistics ⚡</h2>
 <br>
 
-<div align=center>
+<div align="center">
   
   <img width=390 src="https://streak-stats.demolab.com/?user=sounak-ghosh03&count_private=true&theme=react&ring=0909EB&border=0B12EB&fire=FFAE0A" alt="GitHub Streak" />
 
-  <img width=390 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sounak-ghosh03&show_icons=true&locale=en&langs_count=10&layout=compact&theme=react&border_radius=10" alt="top langs" />
+  <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=sounak-ghosh03&show_icons=true&locale=en&langs_count=10&layout=compact&theme=react&border_radius=10" alt="top langs" />
 
 </div>
