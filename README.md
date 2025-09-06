@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/connect-with-sounak" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/connect-with-sounak" height="35" width="45" /></a>
-<a href="https://x.com/sounak_on_x" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" alt="https://x.com/sou_Forge" height="35" width="45"/></a>
+<a href="https://x.com/sounak_twt" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" alt="https://x.com/sou_Forge" height="35" width="45"/></a>
 
 </p>
 
