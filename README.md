@@ -2,7 +2,7 @@
 <h3 align="center" style="font-weight:bold">A passionate developer from India!</h3>
 
 <h2>About Me:</h2>
-<img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif">
+<!-- <img align="right" alt="Coding" width="335" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/media/7ed7d5ca074b48b328150e5a231e8d1f.gif"> -->
 
 
 -   Currently working on **MERN Stack**
@@ -17,8 +17,8 @@
 
 <h3 align="left">Connect:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/connect-with-sounak" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/connect-with-sounak" height="35" width="45" /></a>
 <a href="https://x.com/sounak_twt" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" alt="https://x.com/sou_Forge" height="35" width="45"/></a>
+<a href="https://linkedin.com/in/connect-with-sounak" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="linkedin.com/in/connect-with-sounak" height="35" width="45" /></a>
 
 </p>
 
