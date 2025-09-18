@@ -53,7 +53,7 @@
 
 <div align="center">
   
-  <img width=390 src="https://streak-stats.demolab.com/?user=sounak-ghosh03&count_private=true&theme=react&ring=0909EB&border=0B12EB&fire=FFAE0A" alt="GitHub Streak" />
+  <img width=390 src="https://github-readme-streak-stats-steel-psi.vercel.app?user=sounak-ghosh03&count_private=true&theme=react&ring=0909EB&fire=FFAE0A&border=0909EB" alt="GitHub Streak" />
 
   <img width=390 src="https://github-readme-stats.vercel.app/api/top-langs?username=sounak-ghosh03&show_icons=true&locale=en&langs_count=10&layout=compact&theme=react&border_radius=10" alt="top langs" />
 
