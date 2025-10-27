@@ -15,6 +15,8 @@
 
 -   Reach me --> **[Email](mailto:sounakcareers09@gmail.com)**
 
+-   See my work --> **[Portfolio](https://sounak-ghosh.vercel.app/)**
+
 <h3 align="left">Connect:</h3>
 <p align="left">
 <a href="https://x.com/sounak_twt" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/9/95/Twitter_new_X_logo.png?20230802142353" alt="https://x.com/sou_Forge" height="35" width="45"/></a>
