@@ -9,8 +9,6 @@
 
 -   Learning **Blockchain Technology and Web3**
 
--   Ask me about **JavaScript, ReactJS, NextJS, Python, PostgreSQL, MongoDB**
-
 -   Need help? Happy to discuss anything programming-related
 
 -   Reach me --> **[Email](mailto:sounakcareers09@gmail.com)**
