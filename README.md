@@ -61,7 +61,7 @@
     
   <img 
       width="390" 
-      src="https://github-readme-stats-beta-three-96.vercel.app/api/top-langs?username=sounak-ghosh03&show_icons=true&locale=en&langs_count=10&hide=html&layout=compact&theme=react&border_radius=10" 
+      src="https://github-readme-stats-beta-three-96.vercel.app/api/top-langs?username=sounak-ghosh03&show_icons=true&locale=en&langs_count=16&hide=css&layout=compact&theme=react&border_radius=10" 
       alt="Top Languages"
       style="max-width: 100%; height: auto;"
     />
